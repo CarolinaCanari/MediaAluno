@@ -4,7 +4,7 @@
 ## Neste programa: 
 - inserir as 4 notas
 - informa caso os valores inseridos sejam inválidos
-- Parabeniza se a média for > 6 (Aprovado)
-- Reprovado em caso negativo (Reprovado)
+- Parabeniza se a média for >= 6 (Aprovado)
+- Reprovada em caso negativo (Reprovado)
 
 ### Importado "*Scanner"*
